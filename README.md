@@ -4,7 +4,7 @@
 
 # **프로젝트 개발 배경 및 목적**
 
-![01](./img/01.jpg)
+<img src="./img/01.jpg" width="500" height="300">
 
 ( 이미지 출처 - GENERATED PHOTOS )
 
