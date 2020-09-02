@@ -4,7 +4,7 @@
 
 # **프로젝트 개발 배경 및 목적**
 
-![](RackMultipart20200902-4-1rcymtp_html_f65e1ccedbc129bc.jpg)
+![01](./img/01.jpg)
 
 ( 이미지 출처 - GENERATED PHOTOS )
 
@@ -36,7 +36,7 @@
 
 논문 링크 : [https://arxiv.org/abs/1912.04958](https://arxiv.org/abs/1912.04958)
 
-![](RackMultipart20200902-4-1rcymtp_html_e5419df00ebc789f.gif)
+![02](./img/02.gif)
 
 Nvidia의 StyleGAN 알고리즘을 적용하여 오픈소스를 활용해 만든
 
@@ -50,9 +50,9 @@ GAN 기술은 점점 오픈소스로 공개되는 추세라
 
 **Deepfake**
 
-![](RackMultipart20200902-4-1rcymtp_html_1ba5380185a0efe3.gif)
+![03](./img/03.gif)
 
-![](RackMultipart20200902-4-1rcymtp_html_a704591d8659dd26.gif)
+![04](./img/04.gif)
 
 딥페이크(deepfake)는 AI 기술 중 하나인 딥러닝(Deep Learning) 과 Fake(가짜)를 조합한 합성어로,
 
@@ -64,7 +64,7 @@ AI기술과 안면 매핑(facial mapping) 또는 안면 스와핑(faceswapping) 
 
 # **사용 방법**
 
-![](RackMultipart20200902-4-1rcymtp_html_67e6010e3278b7f7.png)
+![05](./img/05.jpg)
 
 PyTorch는 Python을 위한 오픈소스 머신 러닝 라이브러리로,
 
@@ -74,7 +74,7 @@ PyTorch로 StyleGAN을 구현한 오픈소스를 활용하였고,
 
 학습을 시키는데는 데이터셋 CelebA를 사용하였습니다.
 
-![](RackMultipart20200902-4-1rcymtp_html_6156c2bd407a067.png)
+![06](./img/06.png)
 
 먼저 StyleGAN-PyTorch 폴더 내에서는 두 가지 버전의 구현 환경을 제공합니다.
 
