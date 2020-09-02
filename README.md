@@ -132,7 +132,7 @@ results/output.jpg : 결과 이미지 (딥페이크를 이용한 합성 이미�
 
 워핑 효과를 주는 옵션으로 좀더 자연스럽게 수정 가능합니다.
 
-| python main.py --src imgs/face.jpg --dst imgs/body.jpg --out results/output.jpg --correct\_color -–warp\_2d |
+| python main.py --src imgs/face.jpg --dst imgs/body.jpg --out results/output.jpg --correct\_color --warp\_2d |
 | --- |
 
 관련된 모듈이 없다는 에러메세지가 나올 경우 아래의 명령어를 통해 설치가 가능합니다
